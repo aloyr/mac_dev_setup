@@ -1,8 +1,51 @@
 brew_formulae:
+  - bash
+  - bash-completion
+  - bwm-ng
+  - cpufetch
+  - ddev
+  - docker-compose
+  - docker-completion
+  - docker-color-output
+  - ffmpeg
+  - gh
+  - git
+  - git-lfs
+  - glances
+  - gnutls
+  - go
+  - htop
+  - hub
+  - hugo
+  - imagemagick
+  - jq
+  - linode-cli
+  - mariadb
+  - mas
+  - mkcert
+  - mono
   - neofetch
   - nmap
+  - node
+  - nvm
+  - openjdk
   - php
+  - php@8.1
+  - php-cs-fixer
+  - platformsh-cli
+  - podman
+  - python@3.11
+  - pyyaml
   - pv
+  - shodan
+  - sqlite
+  - symfony-cli
+  - syncthing
+  - telnet
+  - terminal-notifier
   - tmux
   - tree
+  - tugboat-cli
   - watch
+  - wget
+  - yq
