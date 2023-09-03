@@ -1,7 +1,8 @@
 brew_formulae:
-  - nmap
   - neofetch
+  - nmap
   - php
   - pv
+  - tmux
   - tree
   - watch

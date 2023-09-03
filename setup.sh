@@ -21,3 +21,4 @@ else
   git reset --hard origin/main
 fi
 
+ansible-playbook main.yaml
