@@ -7,7 +7,6 @@ brew_formulae:
   - docker-compose
   - docker-completion
   - docker-color-output
-  - dockutil
   - ffmpeg
   - gh
   - git
