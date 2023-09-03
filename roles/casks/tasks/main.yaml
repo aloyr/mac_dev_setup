@@ -1,5 +1,5 @@
 - name: Install brew casks
-  package:
+  homebrew_cask:
     name: "{{ item }}"
     state: present
   with_items: "{{ brew_casks }}"
