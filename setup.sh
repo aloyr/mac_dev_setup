@@ -18,7 +18,7 @@ if [ ! -d ~/workspace/mac_dev_setup ]; then
 else
   cd ~/workspace/mac_dev_setup
   git fetch --all --prune
-  git reset --HARD origin/main
+  git reset --hard origin/main
 fi
 
 
