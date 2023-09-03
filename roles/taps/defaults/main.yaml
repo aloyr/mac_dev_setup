@@ -1,0 +1,8 @@
+brew_taps:
+  - blackfireio/blackfire
+  - dldash/core
+  - drud/ddev
+  - koekeishiya/formulae
+  - platformsh/tap
+  - symfony-cli/tap
+  - tugboatqa/tugboat
