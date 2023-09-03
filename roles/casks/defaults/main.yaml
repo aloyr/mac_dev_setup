@@ -62,7 +62,6 @@ brew_casks:
   - loopback
   - macfuse
   - macsvg
-  - macupdate
   - macvim
   - mamp
   - metasploit
@@ -80,7 +79,7 @@ brew_casks:
   - origami-studio
   - pocket-casts
   - postman
-  - private-internet-access
+    #- private-internet-access
   - rescuetime
   - screenflow
   - scrivener
