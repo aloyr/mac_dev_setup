@@ -1,0 +1,6 @@
+- name: Install MAS apps
+  mas:
+    id: "{{ item.id }}"
+    state: present
+  with_items: "{{ mas_apps }}"
+  tags: mas
