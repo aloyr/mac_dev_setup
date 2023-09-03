@@ -1,5 +1,8 @@
 - name: Install brew casks
+  # become: true
+  # become_user: root
   homebrew_cask:
     name: "{{ item }}"
     state: present
   with_items: "{{ brew_casks }}"
+  tags: casks

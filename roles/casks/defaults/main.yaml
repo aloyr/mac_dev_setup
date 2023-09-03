@@ -67,7 +67,6 @@ brew_casks:
   - macupdate
   - macvim
   - mamp
-  - meshmixer
   - metasploit
   - microsoft-auto-update
   - microsoft-edge

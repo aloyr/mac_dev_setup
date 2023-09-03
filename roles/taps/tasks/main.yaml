@@ -3,3 +3,4 @@
     name: "{{ item }}"
     state: present
   with_items: "{{ brew_taps }}"
+  tags: taps
