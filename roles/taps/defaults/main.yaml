@@ -2,6 +2,7 @@ brew_taps:
   - blackfireio/blackfire
   - dldash/core
   - drud/ddev
+  - homebrew/cask-fonts
   - koekeishiya/formulae
   - platformsh/tap
   - symfony-cli/tap
