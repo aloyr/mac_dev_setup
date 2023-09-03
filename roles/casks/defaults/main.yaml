@@ -6,7 +6,6 @@ brew_casks:
   - affinity-publisher
   - alacritty
   - alfred
-  - amazon-music
   - amazon-photos
   - angry-ip-scanner
   - appcleaner
@@ -22,7 +21,6 @@ brew_casks:
   - caffeine
   - chromedriver
   - dash
-  - data-integration
   - dbvisualizer
   - discord
   - dropbox
@@ -98,6 +96,7 @@ brew_casks:
   - tableau
   - the-unarchiver
   - thinkorswim
+  - tibco-jaspersoft-studio
   - tunnelblick
   - ultimaker-cura
   - unetbootin
