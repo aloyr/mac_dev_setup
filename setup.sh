@@ -21,4 +21,3 @@ else
   git reset --hard origin/main
 fi
 
-
