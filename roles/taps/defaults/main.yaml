@@ -3,6 +3,7 @@ brew_taps:
   - dldash/core
   - drud/ddev
   - homebrew/cask-fonts
+  - homebrew/cask-versions
   - koekeishiya/formulae
   - platformsh/tap
   - symfony-cli/tap
