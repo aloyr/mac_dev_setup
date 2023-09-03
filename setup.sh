@@ -11,4 +11,14 @@ curl -s https://raw.githubusercontent.com/aloyr/system_config_files/master/setup
 eval "$(/opt/homebrew/bin/brew shellenv)"
 
 brew install ansible
+if [ ! -d ~/workspace/mac_dev_setup ]; then
+  mkdir -p ~/workspace/mac_dev_setup
+  cd ~/workspace/mac_dev_setup
+  git clone https://github.com/aloyr/mac_dev_setup.git
+else
+  cd ~/workspace/mac_dev_setup
+  git fetch --all --prune
+  git reset --HARD origin/main
+fi
+
 
